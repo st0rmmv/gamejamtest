@@ -27,6 +27,7 @@ label start:
     e "You've created a new Ren'Py game."
 
     e "Once you add a story, pictures, and music, you can release it to the world!"
+    #every time you do this it requires something. idk we're checking how this works.  i can debug things when it comes to big stuff but the general idea is for our cs people to do any programming
 
     # This ends the game.
 
